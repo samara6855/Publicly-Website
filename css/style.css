@@ -148,8 +148,6 @@ h6,
 
 .navbar-dark .navbar-brand h1 {
     color: #FFFFFF;
-    display: flex;
-    text-indent: 4px;
 }
 
 .navbar-dark .navbar-toggler {
@@ -172,8 +170,6 @@ h6,
 
     .navbar-dark .navbar-brand h1 {
         color: var(--primary);
-        display: flex;
-        text-indent: 4px;
     }
 }
 
@@ -215,8 +211,6 @@ h6,
 
     .sticky-top.navbar-dark .navbar-brand h1 {
         color: var(--primary);
-        display: flex;
-        text-indent: 4px;
     }
 }
 
